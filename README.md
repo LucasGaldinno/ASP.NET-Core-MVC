@@ -4,15 +4,15 @@ Nesse projeto foi desenvolvido um CRUD, uma tabela de cadastro de alunos, você 
 Versão: Fevereiro de 2021 (versão 1.54)
 <h2>Extenções utilizadas para o desenvolvimento desse projeto</h2>
 
-- [C#]
-- [C# Extensions]
-- [Debugger for Chrome]
-- [Docker]
-- [Live Server]
+- C#
+- C# Extensions
+- Debugger for Chrome
+- Docker
+- Live Server
 
 <h2>Versão do SDK para o desenvolvimento desse projeto</h2>
 
-- [5.0.103]
+- 5.0.103
 
 ### Cadstro de alunos
 
