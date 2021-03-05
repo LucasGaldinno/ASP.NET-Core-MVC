@@ -14,12 +14,11 @@ Versão: Fevereiro de 2021 (versão 1.54)
 
 - 5.0.103
 
-### Cadstro de alunos
+<h2>Funcionalidades da aplicação.</h2>
 
-- [x] Criar um cadastro
-- [x] Nome
-- [x] E-mail
-- [x] Rg
-- [x] Detalhes
-- [x] Editar
-- [x] Deletar
+- [x] Cadastro de alunos
+- [x] Detalhes do cadastro
+- [x] Editar o cadastro
+- [x] Deletar o cadastro
+
+![image](https://user-images.githubusercontent.com/71888039/110121439-26400780-7d9d-11eb-9274-5b2e96dbdcc2.png)
