@@ -2,7 +2,7 @@
 Nesse projeto foi desenvolvido um CRUD, uma tabela de cadastro de alunos, você consegue criar um cadastro, editar, ver os detalhes e excluir.
 <h2>Esse programa foi desenvolvido no Visual Studio Code</h2>
 Versão: Fevereiro de 2021 (versão 1.54)
-<h2>Extenções utilizadas para o desenvolvimento desse projeto</h2>
+<h2>Extensões utilizadas para o desenvolvimento desse projeto</h2>
 
 - C#
 - C# Extensions
