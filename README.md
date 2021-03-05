@@ -10,7 +10,7 @@ Assim que você baixar a pasta, abra no Visual code e aperte no teclado Ctrl + F
 Run, e seleciona a segunda opção run without debugging. No seu terminal vai aparecer os seguintes links, https://localhost:5001/
 
 https://localhost:5000/. Assim que você acessar esse link você sera direcionado para Home Page.
-![Home-Page!](https://lucasGaldinno/Tarefa-2/main/Img/Home%20Page.PNG)
+![Home-Page!](https://raw.githubusercontent.com/LucasGaldinno/Tarefa-2/main/Img/Home%20Page.PNG)
 
 lá em cima na barra de navegação acrescente uma rota exemplo: https://localhost:5001/Aluno
 
