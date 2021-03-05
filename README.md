@@ -3,6 +3,7 @@ Nesse projeto foi desenvolvido um CRUD, uma tabela de cadastro de alunos, você 
 <h2>Esse programa foi desenvolvido no Visual Studio Code</h2>
 Versão: Fevereiro de 2021 (versão 1.54)
 <h2>Extenções utilizadas para o desenvolvimento desse projeto</h2>
+
 - [C#]
 - [C# Extensions]
 - [Debugger for Chrome]
@@ -10,8 +11,8 @@ Versão: Fevereiro de 2021 (versão 1.54)
 - [Live Server]
 
 <h2>Versão do SDK para o desenvolvimento desse projeto</h2>
-- [5.0.103]
 
+- [5.0.103]
 
 ### Cadstro de alunos
 
