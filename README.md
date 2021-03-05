@@ -3,13 +3,17 @@
 <h3>Aula11_04_03_2021</h3>
 MVC - Cadastro de alunos.<br>
 Este programa foi desenvolvido no Visual Studio Code.<br>
-Nessa atividade foi solicitado para Desenvolver um CRUD com ASP.NET core, resumindo uma lista de cadastro de alunos.<br>
-Assim que você baixar a pasta, abra no Visual code e aperte no teclado Ctrl + F5, ou vai na barra de cima do code, vai em
-Run, e seleciona a segunda opção run without debugging. No seu terminal vai aparecer os seguintes links, https://localhost:5001/
-https://localhost:5000/. Assim que você acessar esse link você sera direcionado para Home Page.
+Nessa atividade foi solicitado para Desenvolver um CRUD com ASP.NET core,<br>
+Nessa lista você consegue editar seu cadastro, ver os detalhes, excluir, e criar um novo cadastro,<br>
+acesse um desses links, para conseguir ter acesso a página https://localhost:5001/ 
+https://localhost:5000/
 
 ![Home-Page!](https://raw.githubusercontent.com/LucasGaldinno/Tarefa-2/main/Img/Home%20Page.PNG)
 
-lá em cima na barra de navegação acrescente uma rota exemplo: https://localhost:5001/Aluno
+Lá em cima na barra de navegação acrescente uma rota exemplo: https://localhost:5001/Aluno
 
+![Table!](https://raw.githubusercontent.com/LucasGaldinno/Tarefa-2/main/Img/Index-02.PNG)
 
+Clique em criar um novo cadastro você sera direcionado para a seguinte página
+
+![Create!](https://raw.githubusercontent.com/LucasGaldinno/Tarefa-2/main/Img/Create.PNG)
