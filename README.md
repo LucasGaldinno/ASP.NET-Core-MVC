@@ -21,4 +21,4 @@ Versão: Fevereiro de 2021 (versão 1.54)
 - [x] Editar o cadastro
 - [x] Deletar o cadastro
 
-![image](https://user-images.githubusercontent.com/71888039/110121439-26400780-7d9d-11eb-9274-5b2e96dbdcc2.png)
+![image](https://github.com/LucasGaldinno/ASP.NET-Core-MVC/blob/main/LICENSE.md)
