@@ -21,4 +21,5 @@ Versão: Fevereiro de 2021 (versão 1.54)
 - [x] Editar o cadastro
 - [x] Deletar o cadastro
 
-<a href="https://github.com/LucasGaldinno/ASP.NET-Core-MVC/blob/main/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/LucasGaldinno/ASP.NET-Core-MVC?color=VERDE"></a>
+<h2>Conclusão</h2>
+O desenvolvimento desse projeto foi seguindo o tutorial do site da Microsoft.docs https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio nesse site tive uma lógica de como desenvolver um projeto ASP.NET Core MVC, com base nos conhecimentos que recebi desenvolvi CRUD  para registrar alunos.
