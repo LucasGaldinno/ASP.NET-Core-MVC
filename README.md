@@ -11,3 +11,5 @@ https://localhost:5000/. Assim que você acessar esse link você sera direcionad
 ![Home-Page!](https://raw.githubusercontent.com/LucasGaldinno/Tarefa-2/main/Img/Home%20Page.PNG)
 
 lá em cima na barra de navegação acrescente uma rota exemplo: https://localhost:5001/Aluno
+
+
