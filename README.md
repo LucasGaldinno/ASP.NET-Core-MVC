@@ -21,4 +21,4 @@ Versão: Fevereiro de 2021 (versão 1.54)
 - [x] Editar o cadastro
 - [x] Deletar o cadastro
 
-![image](https://github.com/LucasGaldinno/ASP.NET-Core-MVC/blob/main/LICENSE.md)
+<a href="https://github.com/LucasGaldinno/ASP.NET-Core-MVC/blob/main/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/LucasGaldinno/ASP.NET-Core-MVC?color=VERDE"></a>
