@@ -1,8 +1,10 @@
-<h1>CRUD com ASP.NET Core EF - Cadastro de alunos</h1>
+<h1>CRUD com ASP.NET Core EF Com Razor Pages - Cadastro de alunos</h1>
 Nesse projeto foi desenvolvido um CRUD, uma tabela de cadastro de alunos, você consegue criar um cadastro, editar, ver os detalhes e excluir.
 
-<h2>Esse programa foi desenvolvido no Visual Studio Code</h2>
-Versão: Fevereiro de 2021 (versão 1.54)
+<h2>Razor Pages</h2>
+Todos os tipos de Razor Pages e seus recursos estão presentes no assembly Microsoft.AspNetCore.Mvc.RazorPages sendo que o pacote MVC - Microsoft.AspNetCore.Mvc inclui o conjunto das Razor Pages. Isso significa que você pode usar as Razor Pages fora da caixa com o MVC.
+
+Uma das vantagens das Razor Pages é que sua configuração é bem direta e simplificada. Basta criar um novo projeto vazio, adicionar a pasta Pages, criar uma página, e dai você apenas escreve código e a marcação dentro de seu arquivo .cshtml.
 
 <h2>O Padrão MVC (Model-View-Controller)</h2>
 O MVC é utilizado em muitos projetos devido a arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas. Cada uma delas, o Model, o Controller e a View, executa o que lhe é definido e nada mais do que isso.
@@ -10,6 +12,9 @@ A utilização do padrão MVC traz como benefício o isolamento das regras de ne
 Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.<br>
 
 Para mais informações acesse o site: https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308
+
+<h2>Esse programa foi desenvolvido no Visual Studio Code</h2>
+Versão: Fevereiro de 2021 (versão 1.54) <a href="https://code.visualstudio.com/download">Download Visual Studio Code</a>
 
 <h2>Extensões utilizadas para o desenvolvimento desse projeto</h2>
 
@@ -32,7 +37,7 @@ Para mais informações acesse o site: https://www.devmedia.com.br/introducao-ao
 - [x] Deletar o cadastro
 
 <h2>Pacotes</h2>
-Para a realização desse projeto no Visual Studio Code será necessario a instalção de alguns pacotes
+Para a realização desse projeto no Visual Studio Code, será necessario a instalção de alguns pacotes:
 <hr>
 
 ![Pacotes!](https://raw.githubusercontent.com/LucasGaldinno/ASP.NET-Core-MVC/main/Screenshots/Pacotes.jpg)
