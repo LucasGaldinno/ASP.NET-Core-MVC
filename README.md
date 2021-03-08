@@ -32,7 +32,7 @@ Para mais informações acesse o site: https://www.devmedia.com.br/introducao-ao
 - [x] Deletar o cadastro
 
 <h2>Pacotes</h2>
-para a realização desse projeto no Visual Studio Code será necessario a instalção de alguns pacotes
+Para a realização desse projeto no Visual Studio Code será necessario a instalção de alguns pacotes
 <hr>
 
 ![Pacotes!](https://raw.githubusercontent.com/LucasGaldinno/ASP.NET-Core-MVC/main/Screenshots/Pacotes.jpg)
