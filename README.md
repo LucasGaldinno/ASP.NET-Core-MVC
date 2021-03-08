@@ -14,15 +14,15 @@ Para mais informações acesse o site: https://www.devmedia.com.br/introducao-ao
 <h2>Extensões utilizadas para o desenvolvimento desse projeto</h2>
 
 - <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">C#</a>
-- C# Extensions
-- Debugger for Chrome
-- Docker
-- Live Server
-- ESLint
+- <a href="https://marketplace.visualstudio.com/items?itemName=kreativ-software.csharpextensions">C# Extensions</a>
+- <a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome">Debugger for Chrome</a>
+- <a href="https://www.docker.com/">Docker</a>
+- <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
+- <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a>
 
 <h2>Versão do SDK para o desenvolvimento desse projeto</h2>
 
-- 5.0.103
+- <a href="https://dotnet.microsoft.com/download">5.0.103</a>
 
 <h2>Funcionalidades da aplicação.</h2>
 
