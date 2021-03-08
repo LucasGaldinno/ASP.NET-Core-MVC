@@ -13,7 +13,7 @@ Para mais informações acesse o site: https://www.devmedia.com.br/introducao-ao
 
 <h2>Extensões utilizadas para o desenvolvimento desse projeto</h2>
 
-- <a href = "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">C#
+- <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">C#</a>
 - C# Extensions
 - Debugger for Chrome
 - Docker
