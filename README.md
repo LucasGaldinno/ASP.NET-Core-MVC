@@ -3,9 +3,9 @@ Nesse projeto foi desenvolvido um CRUD, uma tabela de cadastro de alunos, você 
 
 <h2>Razor Pages</h2>
 Todos os tipos de Razor Pages e seus recursos estão presentes no assembly Microsoft.AspNetCore.Mvc.RazorPages sendo que o pacote MVC - Microsoft.AspNetCore.Mvc inclui o conjunto das Razor Pages. Isso significa que você pode usar as Razor Pages fora da caixa com o MVC.
-Uma das vantagens das Razor Pages é que sua configuração é bem direta e simplificada. Basta criar um novo projeto vazio, adicionar a pasta Pages, criar uma página, e dai você apenas escreve código e a marcação dentro de seu arquivo .cshtml.<br>
+Uma das vantagens das Razor Pages é que sua configuração é bem direta e simplificada. Basta criar um novo projeto vazio, adicionar a pasta Pages, criar uma página, e dai você apenas escreve código e a marcação dentro de seu arquivo .cshtml.<br><br>
 
-Para mais informações acesse o site da <a href="https://docs.microsoft.com/pt-br/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio"> Microsoft</a>
+Para mais informações acesse o site: <a href="https://docs.microsoft.com/pt-br/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio"> Microsoft</a>
 
 <h2>O Padrão MVC (Model-View-Controller)</h2>
 O MVC é utilizado em muitos projetos devido a arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas. Cada uma delas, o Model, o Controller e a View, executa o que lhe é definido e nada mais do que isso.
