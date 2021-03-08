@@ -10,7 +10,7 @@ Para mais informações acesse o site da <a href="https://docs.microsoft.com/pt-
 <h2>O Padrão MVC (Model-View-Controller)</h2>
 O MVC é utilizado em muitos projetos devido a arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas. Cada uma delas, o Model, o Controller e a View, executa o que lhe é definido e nada mais do que isso.
 A utilização do padrão MVC traz como benefício o isolamento das regras de negócios da lógica de apresentação, que é a interface com o usuário. Isto possibilita a existência de várias interfaces com o usuário que podem ser modificadas sem a necessidade de alterar as regras de negócios, proporcionando muito mais flexibilidade e oportunidades de reuso das classes.
-Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.<br>
+Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.<br><br>
 Para mais informações acesse o site: <a href="https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308">Devmedia</a>
 
 <h2>Entity Framework Core</h2>
