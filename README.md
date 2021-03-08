@@ -2,6 +2,13 @@
 Nesse projeto foi desenvolvido um CRUD, uma tabela de cadastro de alunos, você consegue criar um cadastro, editar, ver os detalhes e excluir.
 <h2>Esse programa foi desenvolvido no Visual Studio Code</h2>
 Versão: Fevereiro de 2021 (versão 1.54)
+<h2>O Padrão MVC (Model-View-Controller)</h2>
+O MVC é utilizado em muitos projetos devido a arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas. Cada uma delas, o Model, o Controller e a View, executa o que lhe é definido e nada mais do que isso.
+
+A utilização do padrão MVC traz como benefício o isolamento das regras de negócios da lógica de apresentação, que é a interface com o usuário. Isto possibilita a existência de várias interfaces com o usuário que podem ser modificadas sem a necessidade de alterar as regras de negócios, proporcionando muito mais flexibilidade e oportunidades de reuso das classes.
+
+Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.
+
 <h2>Extensões utilizadas para o desenvolvimento desse projeto</h2>
 
 - C#
