@@ -9,6 +9,7 @@ Versão: Fevereiro de 2021 (versão 1.54)
 - Debugger for Chrome
 - Docker
 - Live Server
+- ESLint
 
 <h2>Versão do SDK para o desenvolvimento desse projeto</h2>
 
