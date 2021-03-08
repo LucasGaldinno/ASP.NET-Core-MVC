@@ -31,5 +31,8 @@ Para mais informações acesse o site: https://www.devmedia.com.br/introducao-ao
 - [x] Editar o cadastro
 - [x] Deletar o cadastro
 
+<h2>Pacotes</h2>
+para a realização desse projeto no Visual Studio Code será necessario a instalção de alguns pacotes 
+
 <h2>Conclusão</h2>
 O desenvolvimento desse projeto foi seguindo o tutorial do site da Microsoft.docs https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio nesse site eu tive uma lógica de como desenvolver um projeto ASP.NET Core MVC, com base nesses conhecimentos que recebi desenvolvi um CRUD para registrar alunos.
