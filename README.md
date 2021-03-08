@@ -22,7 +22,7 @@ Para mais informações acesse o site: https://www.devmedia.com.br/introducao-ao
 
 <h2>Versão do SDK para o desenvolvimento desse projeto</h2>
 
-- <a href="https://dotnet.microsoft.com/download">5.0.103</a>
+- 5.0.103 <a href="https://dotnet.microsoft.com/download">Download do SDK</a>
 
 <h2>Funcionalidades da aplicação.</h2>
 
