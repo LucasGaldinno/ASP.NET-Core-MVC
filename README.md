@@ -42,7 +42,7 @@ Versão: Fevereiro de 2021 (versão 1.54) <a href="https://code.visualstudio.com
 - [x] Deletar o cadastro
 
 <h2>Pacotes</h2>
-Para a realização desse projeto no Visual Studio Code, será necessário a instalção de alguns pacotes:
+Para a realização desse projeto no Visual Studio Code, será necessário a instalação de alguns pacotes:
 <hr>
 
 ![Pacotes!](https://raw.githubusercontent.com/LucasGaldinno/ASP.NET-Core-MVC/main/Screenshots/Pacotes.jpg)
