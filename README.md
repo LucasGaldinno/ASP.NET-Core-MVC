@@ -18,7 +18,7 @@ O EF Core é um mapeador objeto-relacional (O/RM) que permite aos desenvolvedore
 
 Para mais informações acesse o site: <a href="http://www.macoratti.net/17/05/efcore_ini1.htm">Macoratti</a>
 
-<h2>Esse programa foi desenvolvido no Visual Studio Code</h2>
+<h2>Esse projeto foi desenvolvido no Visual Studio Code</h2>
 Versão: Fevereiro de 2021 (versão 1.54) <a href="https://code.visualstudio.com/download">Download Visual Studio Code</a>
 
 <h2>Extensões utilizadas para o desenvolvimento desse projeto</h2>
